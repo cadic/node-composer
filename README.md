@@ -1,6 +1,6 @@
 # node-composer
 
-Node12 + NPM 6 + PHP 7.4 + Composer 2
+Node24 + NPM 11 + PHP 8.4 + Composer 2
 
 ```
 # docker pull maxlyuchin/node-composer:latest
